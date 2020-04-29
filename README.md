@@ -26,9 +26,9 @@ Expenso can also track your monthly spending trends and help you cut down on unn
       * numpy
 
 ### How To Run the Application:
-1.Make a SQL database on your local machine using **exptrack.sql**
+1. Make a SQL database on your local machine using **exptrack.sql**
 
-2.Clone the GitHub repo onto your device and Run the **ExpenseTracker.py** file 
+2. Clone the GitHub repo onto your device and Run the **ExpenseTracker.py** file 
 
 #### Developed by:
 
